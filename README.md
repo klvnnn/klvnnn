@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klvnnn&label=Profile%20views&color=0e75b6&style=flat" alt="klvnnn" /> </p>
 
-- 🌱 I’m currently learning **Laravel, React, Machine Learning.**
+- 🌱 I’m currently learning **Machine Learning.**
 
 - 💬 Ask me about **Laravel**
 
