@@ -1,6 +1,6 @@
 ![image](https://github.com/klvnnn/klvnnn/assets/106758416/3dea913f-ed22-426e-82c7-2391c4120a2a)
 <h1 align="center">Hello everyone 👋, My name is Kelvin Aulia Wilson</h1>
-<h3 align="center">I am an enthusiastic software developer</h3>
+<h3 align="center">I am an software development enthusiast</h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klvnnn&label=Profile%20views&color=0e75b6&style=flat" alt="klvnnn" /> </p>
