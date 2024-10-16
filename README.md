@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klvnnn&label=Profile%20views&color=0e75b6&style=flat" alt="klvnnn" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **GO**
 
 - 📫 How to reach me **kelvinawlsn@gmail.com**
 
